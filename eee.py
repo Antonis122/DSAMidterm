@@ -3,6 +3,7 @@ import turtle
 import time 
 
 t=turtle.Turtle()
+
 t.color('Green', 'Navy')
 t.pensize (1)
 
